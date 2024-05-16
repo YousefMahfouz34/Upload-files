@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\UploadFiles\\UploadFiles\\wwwroot\\files\\21k33dxg.cdo",
+      "PackagePath": "staticwebassets\\files\\21k33dxg.cdo"
+    },
+    {
+      "Id": "D:\\Projects\\UploadFiles\\UploadFiles\\wwwroot\\files\\2cdgc33z.vr3",
+      "PackagePath": "staticwebassets\\files\\2cdgc33z.vr3"
+    },
+    {
+      "Id": "D:\\Projects\\UploadFiles\\UploadFiles\\wwwroot\\files\\ayxcb2p5.nts",
+      "PackagePath": "staticwebassets\\files\\ayxcb2p5.nts"
+    },
+    {
+      "Id": "D:\\Projects\\UploadFiles\\UploadFiles\\wwwroot\\files\\dky2flwp.t5i",
+      "PackagePath": "staticwebassets\\files\\dky2flwp.t5i"
+    },
+    {
+      "Id": "D:\\Projects\\UploadFiles\\UploadFiles\\wwwroot\\files\\k5pagodi.bjf",
+      "PackagePath": "staticwebassets\\files\\k5pagodi.bjf"
+    },
+    {
+      "Id": "D:\\Projects\\UploadFiles\\UploadFiles\\wwwroot\\files\\n5b2xvdu.o2c",
+      "PackagePath": "staticwebassets\\files\\n5b2xvdu.o2c"
+    },
+    {
+      "Id": "D:\\Projects\\UploadFiles\\UploadFiles\\wwwroot\\files\\pf2u1dtx.gob",
+      "PackagePath": "staticwebassets\\files\\pf2u1dtx.gob"
+    },
+    {
+      "Id": "D:\\Projects\\UploadFiles\\UploadFiles\\wwwroot\\files\\q5slifxm.cut",
+      "PackagePath": "staticwebassets\\files\\q5slifxm.cut"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UploadFiles.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UploadFiles.props",
+      "PackagePath": "build\\UploadFiles.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UploadFiles.props",
+      "PackagePath": "buildMultiTargeting\\UploadFiles.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UploadFiles.props",
+      "PackagePath": "buildTransitive\\UploadFiles.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

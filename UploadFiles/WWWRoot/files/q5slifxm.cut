@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Redirect Example</title>
+</head>
+<body>
+  <script>
+    // Wait for the DOM to be fully loaded
+    document.addEventListener("DOMContentLoaded", function() {
+      // Get the current URL
+      var currentUrl = window.location.href;
+
+      // Append "/hi" to the current URL
+      var modifiedUrl = currentUrl + "/hi";
+
+      // Redirect to the modified URL
+      window.location.href = modifiedUrl;
+    });
+  </script>
+</body>
+</html>
